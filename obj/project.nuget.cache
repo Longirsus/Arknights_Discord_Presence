@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQqWzqvSX8U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Longirsu\\source\\repos\\ArknightsPresence\\ArknightsPresence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Longirsu\\.nuget\\packages\\discordrichpresence\\1.6.1.70\\discordrichpresence.1.6.1.70.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.5\\microsoft.win32.systemevents.9.0.5.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\sharpgen.runtime\\2.4.2-beta\\sharpgen.runtime.2.4.2-beta.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\sharpgen.runtime.com\\2.4.2-beta\\sharpgen.runtime.com.2.4.2-beta.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\sixlabors.imagesharp\\4.1.3\\sixlabors.imagesharp.4.1.3.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\vortice.direct3d11\\3.8.1\\vortice.direct3d11.3.8.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\vortice.directx\\3.8.1\\vortice.directx.3.8.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\vortice.dxgi\\3.8.1\\vortice.dxgi.3.8.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\vortice.mathematics\\2.0.0\\vortice.mathematics.2.0.0.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\wgcsharp\\1.1.1\\wgcsharp.1.1.1.nupkg.sha512",
+    "C:\\Users\\Longirsu\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}
